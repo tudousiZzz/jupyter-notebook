@@ -9,6 +9,4 @@ git branch -M xiaoxin
 git remote add origin git@github.com:tudousiZzz/jupyter-notebook.git
 git push -u origin xiaoxin
 
-
-
 ```
