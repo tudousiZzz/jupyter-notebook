@@ -1,0 +1,4 @@
+
+直接安装jupyter-lab即可
+
+要配置一些东西直接替换jupyter_notebook_config.py文件
